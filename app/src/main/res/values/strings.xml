@@ -3,4 +3,6 @@
     <string name="enter">Enter a number</string>
     <string name="add">add</string>
     <string name="result">Result</string>
+    <string name="enter_">enter</string>
+    <string name="enter_a_number">enter a number</string>
 </resources>
