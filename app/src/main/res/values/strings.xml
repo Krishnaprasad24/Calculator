@@ -3,4 +3,7 @@
     <string name="add">add</string>
     <string name="multi">multi</string>
     <string name="random">random</string>
+    <string name="addition">Addition</string>
+    <string name="multiplication">Multiplication</string>
+    <string name="Random">Random</string>
 </resources>
